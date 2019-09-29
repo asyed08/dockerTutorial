@@ -1,0 +1,6 @@
+docker --version
+docker info
+docker run hello-world
+docker image ls
+docker container ls --all
+
